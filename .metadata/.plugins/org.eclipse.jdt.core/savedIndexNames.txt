@@ -1,0 +1,10 @@
+INDEX VERSION 1.126+/Users/johann/Documents/workspace/android/.metadata/.plugins/org.eclipse.jdt.core
+664679412.index
+1415693123.index
+64719156.index
+128931955.index
+279337223.index
+1695241914.index
+223092425.index
+4149459061.index
+3411270218.index
